@@ -1,0 +1,144 @@
+.container {
+  align-items: center;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main {
+  color: var(--text-color);
+  display: flex;
+  flex: 1;
+  font-family: Inter;
+  justify-content: flex-end;
+  gap: 1rem;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  z-index: 1;
+}
+
+.heading {
+  left: calc(var(--base-space) * 1.75);
+  margin: 0;
+  mix-blend-mode: color;
+  position: fixed;
+  top: calc(var(--base-space) * 2);
+}
+
+@media (max-width: 900px) {
+  .heading {
+    transform: rotate(-90deg) translateY(50%);
+    transform-origin: left;
+    left: calc(var(--base-space) / 2);
+    top: 75%;
+  }
+}
+
+.subheading {
+  --min-font-size: 16;
+  --max-font-size: 20;
+  bottom: var(--base-space);
+  color: hotpink;
+  font-size: clamp(
+    var(--min-font-size) * 1px,
+    var(--fluid-size),
+    var(--max-font-size) * 1px
+  );
+  font-weight: 400;
+  left: calc(var(--base-space) * 1.5);
+  position: fixed;
+}
+
+.asterisk {
+  --size: 3vw;
+  height: var(--size);
+  stroke: hotpink;
+  stroke-width: 1rem;
+  width: var(--size);
+}
+
+.grid {
+  counter-reset: num;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: var(--base-space);
+  height: 100vh;
+  overflow-y: scroll;
+  max-width: max(20rem, 33.33vw);
+  pointer-events: initial;
+}
+
+.card {
+  --min-font-size: 16;
+  --max-font-size: 20;
+  color: var(--text-color);
+  counter-increment: num;
+  flex-basis: 100%;
+  margin-bottom: 0 var(--base-space);
+  padding: 1rem 5rem;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: color 0.15s ease;
+  user-select: none;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+  color: hotpink;
+}
+
+.card::before {
+  --size: 2rem;
+  align-items: center;
+  content: counter(num);
+  display: flex;
+  font-feature-settings: 'tnum';
+  font-size: clamp(
+    var(--min-font-size) * 1px,
+    var(--fluid-size),
+    var(--max-font-size) * 1px
+  );
+  font-variant-numeric: tabular-nums;
+  justify-content: center;
+  height: var(--size);
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
+  width: var(--size);
+}
+
+.card h3 {
+  --min-font-size: 25;
+  --max-font-size: 32;
+  font-size: clamp(
+    var(--min-font-size) * 1px,
+    var(--fluid-size),
+    var(--max-font-size) * 1px
+  );
+  font-weight: 400;
+  line-height: 1;
+  margin: 0;
+  margin-left: -0.25rem;
+  max-width: 7ch;
+}
+
+.card p {
+  --min-font-size: 12;
+  --max-font-size: 20;
+  bottom: var(--base-space);
+  font-size: clamp(
+    var(--min-font-size) * 1px,
+    var(--fluid-size),
+    var(--max-font-size) * 1px
+  );
+  margin: 0;
+  margin-top: calc(var(--base-space) / 2);
+}

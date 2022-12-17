@@ -1,0 +1,116 @@
+{
+  "version": "0.8.1",
+  "license": "MIT",
+  "description": "️Edit your react-three-fiber scene with a visual editor without giving up control over your code.",
+  "keywords": [
+    "3d",
+    "editor",
+    "react",
+    "react-three-fiber",
+    "r3f",
+    "three",
+    "threejs",
+    "webgl",
+    "webgl2"
+  ],
+  "repository": "AndrewPrifer/react-three-editable",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "start": "tsdx watch",
+    "build": "NODE_ENV=production tsdx build --format cjs",
+    "test": "tsdx test --passWithNoTests",
+    "lint": "tsdx lint",
+    "prepare": "NODE_ENV=production tsdx build  --format cjs",
+    "size": "size-limit",
+    "analyze": "size-limit --why",
+    "storybook": "start-storybook -s ./stories/public -p 6006",
+    "build-storybook": "build-storybook",
+    "np": "NODE_ENV=production np --any-branch"
+  },
+  "peerDependencies": {
+    "react": ">=16",
+    "react-dom": ">=16",
+    "react-three-fiber": "*",
+    "three": "*"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "tsdx lint"
+    }
+  },
+  "prettier": {
+    "printWidth": 80,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "name": "react-three-editable",
+  "author": "Andrew Prifer",
+  "size-limit": [
+    {
+      "path": "dist/react-three-editable.cjs.production.min.js",
+      "limit": "10 KB"
+    }
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@size-limit/preset-small-lib": "^4.6.0",
+    "@storybook/addon-essentials": "^6.1.6",
+    "@storybook/addon-info": "^5.3.21",
+    "@storybook/addon-links": "^6.1.6",
+    "@storybook/addons": "^6.1.6",
+    "@storybook/react": "^6.1.6",
+    "@tailwindcss/forms": "^0.2.1",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2",
+    "autoprefixer": "^10.0.2",
+    "babel-loader": "^8.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "husky": "^4.3.0",
+    "postcss": "^8.1.10",
+    "prettier": "^2.1.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-is": "^17.0.1",
+    "react-three-fiber": "^5.3.4",
+    "rollup-plugin-postcss": "^3.1.8",
+    "size-limit": "^4.6.0",
+    "tailwindcss": "^2.0.1",
+    "three": "^0.121.1",
+    "to-string-loader": "^1.1.6",
+    "tsdx": "^0.14.1",
+    "tslib": "^2.0.3",
+    "typescript": "4.0.5"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "@react-three/drei": "^2.2.10",
+    "@types/file-saver": "^2.0.1",
+    "fast-deep-equal": "^3.1.3",
+    "file-saver": "^2.0.2",
+    "prism-react-renderer": "^1.1.1",
+    "prop-types": "^15.7.2",
+    "react-hook-form": "^6.11.0",
+    "react-merge-refs": "^1.1.0",
+    "react-shadow": "^18.5.1",
+    "react-use-measure": "^2.0.3",
+    "reakit": "^1.3.0",
+    "zustand": "^3.2.0"
+  },
+  "resolutions": {
+    "postcss": "8.1.7",
+    "**/typescript": "4.0.5",
+    "**/@typescript-eslint/eslint-plugin": "^4.6.1",
+    "**/@typescript-eslint/parser": "^4.6.1"
+  }
+}
