@@ -1,0 +1,76 @@
+{
+  "name": "iot-visualization-examples",
+  "version": "0.0.20190419",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js",
+    "build:stats": "webpack --config webpack.config.js --profile --json > stats.json",
+    "analyzer": "webpack-bundle-analyzer stats.json",
+    "dev": "webpack-dev-server --config webpack.dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwxkxk/iot-visualization-examples.git"
+  },
+  "keywords": [
+    "iot",
+    "visualization"
+  ],
+  "author": "alwxkxk",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alwxkxk/iot-visualization-examples/issues"
+  },
+  "homepage": "https://github.com/alwxkxk/iot-visualization-examples#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.0",
+    "@sentry/browser": "^6.15.0",
+    "@sentry/tracing": "^6.15.0",
+    "@tweenjs/tween.js": "^18.6.4",
+    "autoprefixer": "^10.4.0",
+    "bootstrap": "^5.1.3",
+    "d3": "^5.9.2",
+    "dat.gui": "^0.7.6",
+    "echarts": "^5.2.2",
+    "heatmap.js": "^2.0.5",
+    "lodash-es": "^4.17.21",
+    "mitt": "^3.0.0",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^3.0.1",
+    "three": "0.109",
+    "typescript": "^4.5.3",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.1.6",
+    "@types/d3": "^5.7.2",
+    "@types/dat.gui": "^0.7.2",
+    "@types/heatmap.js": "^2.0.36",
+    "@types/lodash-es": "^4.17.5",
+    "@types/node": "^11.13.6",
+    "@types/three": "^0.135.0",
+    "@types/uuid": "^3.4.4",
+    "@typescript-eslint/eslint-plugin": "4.0.1",
+    "@typescript-eslint/parser": "4.0.0",
+    "copy-webpack-plugin": "^10.0.0",
+    "css-loader": "^6.5.1",
+    "eslint": "7",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-config-standard-with-typescript": "^21.0.1",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "5.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "html-webpack-tags-plugin": "^3.0.2",
+    "postcss-import": "^14.0.2",
+    "postcss-loader": "^6.2.1",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.2.6",
+    "webpack": "^5.64.4",
+    "webpack-bundle-analyzer": "^4.5.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0"
+  }
+}

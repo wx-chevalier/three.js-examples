@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/08第八节 points/points.html" line="105" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b42a8c9-d1ac-4af2-a752-985d93819337" name="默认的" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-286451022">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="3829" />
+          <entry key="js" value="2" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="3829" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="12" />
+          <entry key="js" value="2" />
+          <entry key="json" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="12" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="444591152">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16 简单案例/demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1195">
+              <caret line="294" selection-start-line="294" selection-end-line="294" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+                <element signature="e#485#802#0" />
+                <element signature="e#832#1011#0" />
+                <element signature="e#1046#1373#0" />
+                <element signature="e#1415#1457#0" />
+                <element signature="e#7580#8439#0" />
+                <element signature="e#8841#11659#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10第十节 loaders/GLTFLoader.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11第十一节 animation/skeletonAnimation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>keys</find>
+      <find>staticMoving</find>
+      <find>change</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/stats.min.js" />
+        <option value="$PROJECT_DIR$/js/dat.gui.min.js" />
+        <option value="$PROJECT_DIR$/06第六节 Light/spotLight .html" />
+        <option value="$PROJECT_DIR$/06第六节 Light/pointLight .html" />
+        <option value="$PROJECT_DIR$/05第五节 material/index.html" />
+        <option value="$PROJECT_DIR$/04第四节 geometry/index.html" />
+        <option value="$PROJECT_DIR$/03第三节/index.html" />
+        <option value="$PROJECT_DIR$/03第三节/index0.html" />
+        <option value="$PROJECT_DIR$/02第二节/index.html" />
+        <option value="$PROJECT_DIR$/01第一节/index.html" />
+        <option value="$PROJECT_DIR$/07第七节 camera/index.html" />
+        <option value="$PROJECT_DIR$/06第六节 Light/directionalLight.html" />
+        <option value="$PROJECT_DIR$/06第六节 Light/hemisphereLight.html" />
+        <option value="$PROJECT_DIR$/06第六节 Light/pointLight.html" />
+        <option value="$PROJECT_DIR$/06第六节 Light/spotLight.html" />
+        <option value="$PROJECT_DIR$/07第七节 camera/control.html" />
+        <option value="$PROJECT_DIR$/08第八节 points/canvas.html" />
+        <option value="$PROJECT_DIR$/09第九节 controls/OrthographicTrackballControls.html" />
+        <option value="$PROJECT_DIR$/09第九节 controls/controls.html" />
+        <option value="$PROJECT_DIR$/js/TrackballControls.js" />
+        <option value="$PROJECT_DIR$/08第八节 points/sprite.html" />
+        <option value="$PROJECT_DIR$/08第八节 points/points.html" />
+        <option value="$PROJECT_DIR$/js/DeviceOrientationControls.js" />
+        <option value="$PROJECT_DIR$/09第九节 controls/OrbitControls.html" />
+        <option value="$PROJECT_DIR$/09第九节 controls/TrackballControls.html" />
+        <option value="$PROJECT_DIR$/09第九节 controls/DeviceOrientationControls.html" />
+        <option value="$PROJECT_DIR$/09第九节 controls/ediater.html" />
+        <option value="$PROJECT_DIR$/10第十节 loaders/GLTFLoader.html" />
+        <option value="$PROJECT_DIR$/10第十节 loaders/FBXLoader.html" />
+        <option value="$PROJECT_DIR$/10第十节 loaders/OBJLoader.html" />
+        <option value="$PROJECT_DIR$/10第十节 loaders/ColladaLoader.html" />
+        <option value="$PROJECT_DIR$/11第十一节 animation/morphTargets.html" />
+        <option value="$PROJECT_DIR$/js/models/json/horse.js" />
+        <option value="$PROJECT_DIR$/10第十节 loaders/ObjectLoader.html" />
+        <option value="$PROJECT_DIR$/11第十一节 animation/skeletonAnimation.html" />
+        <option value="$PROJECT_DIR$/11第十一节 animation/skeleton.html" />
+        <option value="$PROJECT_DIR$/11第十一节 animation/morphAnimation.html" />
+        <option value="$PROJECT_DIR$/js/Tween.js" />
+        <option value="$PROJECT_DIR$/12第十二节 tween/simple.html" />
+        <option value="$PROJECT_DIR$/12第十二节 tween/chain.html" />
+        <option value="$PROJECT_DIR$/12第十二节 tween/repeat.html" />
+        <option value="$PROJECT_DIR$/js/models/json/rvt.json" />
+        <option value="$PROJECT_DIR$/10第十节 loaders/JSONLoader.html" />
+        <option value="$PROJECT_DIR$/js/models/json/file.json" />
+        <option value="$PROJECT_DIR$/13第十三节 场景交互/raycaster.html" />
+        <option value="$PROJECT_DIR$/13第十三节 场景交互/select.html" />
+        <option value="$PROJECT_DIR$/13第十三节 场景交互/boxselection.html" />
+        <option value="$PROJECT_DIR$/16 简单案例/demo.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GitChat-Three.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitChat-Three.js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitChat-Three.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitChat-Three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="11第十一节 animation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitChat-Three.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitChat-Three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="16 简单案例" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitChat-Three.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitChat-Three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitChat-Three.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitChat-Three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitChat-Three.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitChat-Three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitChat-Three.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitChat-Three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="gltf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitChat-Three.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitChat-Three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="threejs_pull_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitChat-Three.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitChat-Three.js" type="462c0819:PsiDirectoryNode" />
+              <item name="threejs_pull_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="orbitControl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\github\GitChat-Three.js\js\controls" />
+      <recent name="D:\work\github\GitChat-Three.js\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\GitChat-Three.js" />
+      <recent name="D:\work\github\GitChat-Three.js\images" />
+      <recent name="D:\work\github\GitChat-Three.js\js" />
+      <recent name="D:\work\github\GitChat-Three.js\13第十三节 场景交互" />
+      <recent name="D:\work\github\GitChat-Three.js\12第十二节 tween" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b42a8c9-d1ac-4af2-a752-985d93819337" name="默认的" comment="" />
+      <created>1529336811315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529336811315</updated>
+      <workItem from="1529336812451" duration="4999000" />
+      <workItem from="1529418761194" duration="4031000" />
+      <workItem from="1529495959904" duration="914000" />
+      <workItem from="1529498528556" duration="649000" />
+      <workItem from="1529588622706" duration="599000" />
+      <workItem from="1529688968036" duration="6806000" />
+      <workItem from="1529742215963" duration="17810000" />
+      <workItem from="1529820019377" duration="1320000" />
+      <workItem from="1529834401379" duration="8961000" />
+      <workItem from="1529927885836" duration="456000" />
+      <workItem from="1530535992879" duration="8029000" />
+      <workItem from="1530624607370" duration="10533000" />
+      <workItem from="1530709756738" duration="4449000" />
+      <workItem from="1530790764666" duration="7728000" />
+      <workItem from="1530880262169" duration="516000" />
+      <workItem from="1530974771679" duration="692000" />
+      <workItem from="1531019481342" duration="8416000" />
+      <workItem from="1531136373493" duration="8934000" />
+      <workItem from="1531228941080" duration="27000" />
+      <workItem from="1532149757224" duration="1854000" />
+      <workItem from="1532178114908" duration="1204000" />
+      <workItem from="1532230511011" duration="19493000" />
+      <workItem from="1532344988015" duration="11008000" />
+      <workItem from="1532431294207" duration="531000" />
+      <workItem from="1532445446119" duration="2165000" />
+      <workItem from="1532516463123" duration="285000" />
+      <workItem from="1532860763773" duration="2412000" />
+      <workItem from="1532869825853" duration="599000" />
+      <workItem from="1532871697692" duration="754000" />
+      <workItem from="1532951488028" duration="9680000" />
+      <workItem from="1533049038109" duration="33000" />
+      <workItem from="1533225047881" duration="721000" />
+      <workItem from="1533298814600" duration="855000" />
+      <workItem from="1533454946258" duration="8505000" />
+      <workItem from="1533648211133" duration="2552000" />
+      <workItem from="1533729150197" duration="599000" />
+      <workItem from="1533915829820" duration="1609000" />
+      <workItem from="1534161066458" duration="1497000" />
+      <workItem from="1534257142995" duration="597000" />
+      <workItem from="1534436180007" duration="603000" />
+      <workItem from="1534573586689" duration="300000" />
+      <workItem from="1534581551874" duration="16600000" />
+      <workItem from="1534662599878" duration="20046000" />
+      <workItem from="1534779508255" duration="817000" />
+      <workItem from="1544342850006" duration="799000" />
+      <workItem from="1544531637657" duration="60000" />
+      <workItem from="1545060949689" duration="951000" />
+      <workItem from="1545063245444" duration="855000" />
+      <workItem from="1545135712885" duration="628000" />
+      <workItem from="1545136472054" duration="55000" />
+      <workItem from="1545136537909" duration="127000" />
+      <workItem from="1545136677236" duration="413000" />
+      <workItem from="1545137192559" duration="435000" />
+      <workItem from="1545138993723" duration="671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="206182000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14910433" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="运行" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32922733" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="调试" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/06第六节 Light/hemisphereLight.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06第六节 Light/directionalLight.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08第八节 points/canvas.html" />
+    <entry file="file://$PROJECT_DIR$/07第七节 camera/control.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="159" column="33" lean-forward="true" selection-start-line="159" selection-start-column="33" selection-end-line="159" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09第九节 controls/OrthographicTrackballControls.html" />
+    <entry file="file://$PROJECT_DIR$/07第七节 camera/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="43" column="78" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08第八节 points/sprite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="152" column="45" lean-forward="true" selection-start-line="152" selection-start-column="45" selection-end-line="152" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08第八节 points/points.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="132" column="8" lean-forward="true" selection-start-line="132" selection-start-column="8" selection-end-line="148" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09第九节 controls/TrackballControls.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09第九节 controls/ediater.html" />
+    <entry file="file://$PROJECT_DIR$/js/EditorControls.js" />
+    <entry file="file://$PROJECT_DIR$/js/controls/DeviceOrientationControls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controls/TrackballControls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="384" selection-start-line="384" selection-end-line="384" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controls/OrbitControls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="115" column="43" selection-start-line="115" selection-start-column="43" selection-end-line="115" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09第九节 controls/DeviceOrientationControls.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="183" column="62" selection-start-line="183" selection-start-column="62" selection-end-line="183" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09第九节 controls/OrbitControls.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="64" column="29" lean-forward="true" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/loaders/FBXLoader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="78" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/models/obj/Elf01_posed.mtl" />
+    <entry file="file://$PROJECT_DIR$/js/models/json/test.json" />
+    <entry file="file://$PROJECT_DIR$/js/loaders/MTLLoader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10第十节 loaders/OBJLoader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="116" column="5" lean-forward="true" selection-start-line="116" selection-start-column="5" selection-end-line="116" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11第十一节 animation/morphTargets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/models/gltf/marie/scene.gltf" />
+    <entry file="file://$PROJECT_DIR$/js/models/json/horse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/models/gltf/naruto.gltf" />
+    <entry file="file://$PROJECT_DIR$/10第十节 loaders/ObjectLoader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/models/json/naruto.json" />
+    <entry file="file://$PROJECT_DIR$/js/three.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="31305" selection-start-line="31305" selection-end-line="31305" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11第十一节 animation/morphAnimation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11第十一节 animation/skeleton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12第十二节 tween/repeat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12第十二节 tween/simple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="112" column="8" lean-forward="true" selection-start-line="112" selection-start-column="8" selection-end-line="115" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12第十二节 tween/chain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="106" column="76" selection-start-line="105" selection-start-column="8" selection-end-line="106" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Tween.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="212" column="6" selection-start-line="212" selection-start-column="6" selection-end-line="212" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10第十节 loaders/ColladaLoader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/models/json/rvt.json" />
+    <entry file="file://$PROJECT_DIR$/js/models/json/file.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="1033" column="43" selection-start-line="1033" selection-start-column="43" selection-end-line="1033" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10第十节 loaders/JSONLoader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="12" lean-forward="true" selection-end-line="236" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13第十三节 场景交互/boxselection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6422">
+          <caret line="338" column="9" lean-forward="true" selection-start-line="338" selection-start-column="9" selection-end-line="338" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13第十三节 场景交互/raycaster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="239" column="34" selection-start-line="239" selection-start-column="34" selection-end-line="239" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10第十节 loaders/FBXLoader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11第十一节 animation/skeletonAnimation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10第十节 loaders/GLTFLoader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16 简单案例/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1195">
+          <caret line="294" selection-start-line="294" selection-end-line="294" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="e#485#802#0" />
+            <element signature="e#832#1011#0" />
+            <element signature="e#1046#1373#0" />
+            <element signature="e#1415#1457#0" />
+            <element signature="e#7580#8439#0" />
+            <element signature="e#8841#11659#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
